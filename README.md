@@ -12,3 +12,4 @@ Bradley T. Webb
 
 Availble on bioRxiv: https://www.biorxiv.org/content/10.1101/2023.09.11.557163v1
 
+5 total scripts to run the pipeline, scripts are numbered in order
